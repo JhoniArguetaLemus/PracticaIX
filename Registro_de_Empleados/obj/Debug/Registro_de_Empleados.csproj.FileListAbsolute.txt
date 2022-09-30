@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\bin\Debug\Registro_de_Empleados.exe.config
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\bin\Debug\Registro_de_Empleados.exe
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\bin\Debug\Registro_de_Empleados.pdb
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\obj\Debug\Registro_de_Empleados.Form1.resources
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\obj\Debug\Registro_de_Empleados.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\obj\Debug\Registro_de_Empleados.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\obj\Debug\Registro_de_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\obj\Debug\Registro_de_Empleados.exe
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\obj\Debug\Registro_de_Empleados.pdb
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\bin\Debug\Planilla.mdf
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\bin\Debug\Planilla_log.ldf
+C:\Users\MINEDUCYT\Desktop\ConexionsBBDD\Registro_de_Empleados\Registro_de_Empleados\obj\Debug\Registro_de_Empleados.csproj.AssemblyReference.cache
